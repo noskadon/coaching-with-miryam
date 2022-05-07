@@ -1,0 +1,54 @@
+body {
+    font-family: "Segoe UI", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Candara", sans-serif;
+}
+
+h2 {
+    color: #f25764;
+
+}
+
+header h2 {
+    color: orangered;
+}
+
+.site-footer {
+    background-image: linear-gradient(#f78da7, #f7aba6);
+
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, #f25764, #f7aba6, white);
+
+
+    color: yellow;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color: #f7aba6;
+
+
+}
+
+.nav-item {
+    color: yellow;
+
+}
+
+
+.jumbotron {
+    margin: 0;
+}
