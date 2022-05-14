@@ -27,3 +27,4 @@ Features that would be nice to have:
     • inactive content sections are hidden so that the page has a fade-out/fade-in effect rather than scrolling
 
 To prepare for this project I reviewed several websites in the same industry.
+# coaching-with-miryam
