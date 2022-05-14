@@ -51,11 +51,11 @@ a:hover {
 }
 
 .carousel-caption {
-	color: #311432;
+	color: indigo;
 }
 
 .carousel-image {
-	opacity: 0.6;
+	opacity: 0.33;
 }
 
 .carousel-caption h1 {
@@ -64,4 +64,5 @@ a:hover {
 
 .carousel-caption {
 	font-size: 1.75rem;
+	z-index: 5;
 }
