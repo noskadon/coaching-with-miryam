@@ -1,0 +1,9 @@
+{
+  "bladeFormatter.format.useTabs": true,
+  "editor.tabSize": 2,
+  "prettier.useTabs": true,
+  "indenticator.inner.showIndentGuide": true,
+  "bladeFormatter.format.indentSize": 2,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false
+}
