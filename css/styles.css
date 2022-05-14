@@ -51,5 +51,17 @@ a:hover {
 }
 
 .carousel-caption {
-	color: orangered;
+	color: #311432;
+}
+
+.carousel-image {
+	opacity: 0.6;
+}
+
+.carousel-caption h1 {
+	font-size: 4rem;
+}
+
+.carousel-caption {
+	font-size: 1.75rem;
 }
