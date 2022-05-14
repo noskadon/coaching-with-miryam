@@ -1,6 +1,3 @@
-# coaching-with-miryam
-
-
 A Light at the End of the Tunnel
 
 This project is a complete recreation of a previous website I built for a family member’s business. The current version was built on a WordPress template but the template was quite limiting. Rather than re-work the template’s HTML and CSS it makes sense to start again from scratch. The replacement site should not affect SEO and search engine indexing since it will be posted to the current host so the DNS is not affected.
@@ -27,4 +24,3 @@ Features that would be nice to have:
     • inactive content sections are hidden so that the page has a fade-out/fade-in effect rather than scrolling
 
 To prepare for this project I reviewed several websites in the same industry.
-# coaching-with-miryam
